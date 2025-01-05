@@ -1,9 +1,8 @@
-def mf():
-    a = 1
-    b = 2
-    api_key = "mysecretapikey1245"  # This would be flagged by detect-secrets
+# Sample code that contains sensitive information
 
+# AWS Access Key (should be detected by detect-secrets)
+aws_access_key = "AKIAIOSFODNN7EXAMPLE"
 
-    return d
+# Google API Key (should be detected by detect-secrets)
+google_api_key = "AIzaSyA1234567890abcdefghijklmnopqrstuvwxyz"
 
-mf()
