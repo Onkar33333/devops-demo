@@ -1,5 +1,1 @@
-def mf():
-   
-    
-
-mf()
+print("ok")
