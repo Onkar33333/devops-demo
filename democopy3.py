@@ -7,3 +7,7 @@ It contains basic examples of ...
 
 print("ok")
 
+# Contents of your file
+print("Hello, World!")  # This is the last line
+
+# This blank line at the end is the trailing newline
